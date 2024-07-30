@@ -1,2 +1,2 @@
-This repository includes all codes required for Django Programming.
+This repository project regarding Django Programming.
 Django is a Python-based web framework which allows you to quickly create web application without all of the installation or dependency problems that you normally will find with other frameworks. When you’re building a website, you always need a similar set of components: a way to handle user authentication (signing up, signing in, signing out), a management panel for your website, forms, a way to upload files, etc. Django gives you ready-made components to use.
